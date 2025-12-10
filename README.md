@@ -9,7 +9,6 @@
 - [Goals](#goals)
 - [License](#license)
 
-
 ---
 # 🛡️ Security Daily Warmups
 Daily learning log for security fundamentals and labs, organized by topic with actionable snippets and references.
