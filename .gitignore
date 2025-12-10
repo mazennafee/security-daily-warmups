@@ -1,0 +1,23 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Python virtual environments (future use)
+venv/
+__pycache__/
+
+# Node.js (future use)
+node_modules/
+
+# Backup files
+*.bak
+*.old
